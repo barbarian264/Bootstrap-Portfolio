@@ -1,0 +1,84 @@
+
+.header {
+	background-color:darkcyan;
+	color:white;
+	float:left;
+	font-size:24px;
+	font-weight: bold;
+	margin-left:-5%;
+	padding: 10px 0;
+}
+
+.navbar-right {
+
+	width: 460px;
+	padding-top: 12px;
+}
+
+h3 {
+
+	text-align: center;
+}
+
+body {
+    
+    background-image: url("../images/ep_naturalwhite.png")
+}
+
+.pic {
+
+	float:left;
+	margin-right:1%;
+}
+
+.col-md-3 {
+
+	max-width: 17.5%;
+}
+
+.col-md-5 {
+
+	margin-right:15%;
+	margin-left:7%;
+}
+
+.panel-title {
+
+	text-align: left;
+	font-weight: bold;
+	color:darkcyan;
+
+}
+
+.panel-heading {
+
+	text-align: center;
+	font-weight: bold;
+	color:darkcyan;
+
+}
+
+.navbar-default {
+
+	width: 1500px;
+}
+
+.mensaje {
+
+	height: 80px;
+	width: 300px;
+}
+
+
+
+footer {
+
+    clear:both;
+	background-color:grey;
+	color: white;
+	text-align:center;
+	padding:30px;
+	border-top-style: solid;
+	border-top-width: 8px;
+	border-color:darkcyan;
+}
