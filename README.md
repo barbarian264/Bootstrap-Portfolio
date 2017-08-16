@@ -1,2 +1,2 @@
 # Bootstrap-Portfolio
-hw2
+Basic Portfolio including my personal information.
